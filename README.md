@@ -1,8 +1,8 @@
-# Two_Layer_Network_MNIST
+# 构建两层神经网络分类器
 
-# 使用numpy构建两层神经网络分类器
-构建两层神经网络分类器，数据集：MINIST；
-不使用pytorch，tensorflow等python package，仅使用numpy。
+要求：
+数据集：MINIST；
+不可使用pytorch，tensorflow等python package，可以使用numpy。
 
 ## 模型训练
 
