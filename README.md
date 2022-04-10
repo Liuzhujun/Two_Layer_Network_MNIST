@@ -23,11 +23,11 @@
  'learning_rate': 0.1,
  'weight_decay': 0
 ```
-在验证集上的Accuracy为97.55%
+ 在验证集上的Accuracy为97.55%
 
 ### 测试
 
-导入参数查找得到的最佳模型，进行测试，输出分类精度
+ 导入参数查找得到的最佳模型，进行测试，输出分类精度
 
 ```python
 Test accuracy = 97.54 %
@@ -35,7 +35,7 @@ Test accuracy = 97.54 %
 
 ### 可视化
 
-导入参数查找得到的最佳模型
+ 导入参数查找得到的最佳模型
 
 1. 对每层的参数进行可视化
 <img width="312" alt="weight1" src="https://user-images.githubusercontent.com/38133106/162612539-39d10f07-a161-4721-9cf8-9dae396e0a4a.png">
@@ -49,6 +49,6 @@ Test accuracy = 97.54 %
 
  ## 模型链接
  
-以下百度云链接包含了27个模型的参数结果。
-链接：https://pan.baidu.com/s/1dOUQdJY4GOCCMcBkF-IqbA 
-提取码：qi12
+ 以下百度云链接包含了参数查找的27个模型
+ 链接：https://pan.baidu.com/s/1dOUQdJY4GOCCMcBkF-IqbA 
+ 提取码：qi12
